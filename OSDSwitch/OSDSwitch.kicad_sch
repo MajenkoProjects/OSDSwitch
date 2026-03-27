@@ -2648,7 +2648,7 @@
 		(uuid "141eeff6-56ca-47ec-b7b3-65b30c878bd0")
 	)
 	(label "RED_IN"
-		(at 92.71 27.94 180)
+		(at 92.71 33.02 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2658,7 +2658,7 @@
 		(uuid "1a609f78-c059-4277-8bb4-332e0f149660")
 	)
 	(label "RED_OUT"
-		(at 118.11 25.4 0)
+		(at 118.11 30.48 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2668,7 +2668,7 @@
 		(uuid "1c7fd690-95bb-4cbf-8cc4-1b313c96ee0c")
 	)
 	(label "BLUE_IN"
-		(at 92.71 33.02 180)
+		(at 92.71 27.94 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2688,22 +2688,22 @@
 		(uuid "39435dd9-f960-4d60-8309-b0ca2af51213")
 	)
 	(label "RED_IN"
-		(at 50.8 85.09 0)
+		(at 154.94 87.63 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "3d4eb2de-52b7-42fd-a7f4-22d492ed7c06")
 	)
 	(label "RED_OUT"
-		(at 50.8 82.55 0)
+		(at 154.94 90.17 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "713baf2e-e5c9-4e22-872b-1e030dfbcd6f")
 	)
@@ -2748,7 +2748,7 @@
 		(uuid "96ca5b29-5e6f-4501-a941-302af5ee3688")
 	)
 	(label "BLUE_OUT"
-		(at 118.11 30.48 0)
+		(at 118.11 25.4 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2768,22 +2768,22 @@
 		(uuid "e2656f0f-3395-4846-897d-8d43aaef82b6")
 	)
 	(label "BLUE_IN"
-		(at 154.94 87.63 180)
+		(at 50.8 85.09 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "e9ed87b3-a2e5-4cb3-949c-631104cd22ac")
 	)
 	(label "BLUE_OUT"
-		(at 154.94 90.17 180)
+		(at 50.8 82.55 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "edd06fcd-1ce7-43bd-8224-968c1a5c56fc")
 	)
@@ -3961,7 +3961,7 @@
 				)
 			)
 		)
-		(property "Value" "470R"
+		(property "Value" "330R"
 			(at 119.38 114.3 90)
 			(effects
 				(font
@@ -4511,7 +4511,7 @@
 				)
 			)
 		)
-		(property "Value" "470R"
+		(property "Value" "330R"
 			(at 90.17 111.76 90)
 			(effects
 				(font
@@ -4876,7 +4876,7 @@
 				)
 			)
 		)
-		(property "Value" "470R"
+		(property "Value" "330R"
 			(at 81.28 55.88 90)
 			(effects
 				(font
