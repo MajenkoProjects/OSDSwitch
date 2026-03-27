@@ -2861,7 +2861,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "196cfbd5-1013-4d35-9bd8-9ba1c7784c21")
 		(property "Reference" "#PWR04"
 			(at 82.55 53.34 0)
@@ -2873,7 +2872,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 80.01 53.3399 90)
+			(at 79.502 53.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3072,7 +3071,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF/16V"
 			(at 175.26 68.9609 0)
 			(effects
 				(font
@@ -3141,7 +3140,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x03_Pin"
+		(property "Value" "Conn_01x03_Pin_J12"
 			(at 128.905 105.41 0)
 			(effects
 				(font
@@ -3354,7 +3353,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x03_Pin"
+		(property "Value" "Conn_01x03_Pin_J23"
 			(at 78.105 104.14 0)
 			(effects
 				(font
@@ -3970,7 +3969,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 119.38 116.84 0)
 			(effects
 				(font
@@ -4309,7 +4308,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x03_Pin"
+		(property "Value" "Conn_01x03_Pin_J12"
 			(at 71.755 50.8 0)
 			(effects
 				(font
@@ -4520,7 +4519,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 90.17 114.3 0)
 			(effects
 				(font
@@ -4721,7 +4720,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:QFN-16-1EP_4x4mm_P0.5mm_EP2.45x2.45mm"
+		(property "Footprint" "Package_DFN_QFN:QFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm"
 			(at 116.84 167.31 0)
 			(effects
 				(font
@@ -4868,10 +4867,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c4e392f1-a2de-4982-b58a-996d4a241f72")
 		(property "Reference" "R2"
-			(at 81.28 53.34 90)
+			(at 81.28 58.42 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -4886,7 +4884,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 81.28 58.42 0)
 			(effects
 				(font
